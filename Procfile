@@ -1,1 +1,1 @@
-web: gunicorn fusion-deploy.wsgi --log-file -
+web: gunicorn FUSION-DEPLOY.wsgi --log-file -
